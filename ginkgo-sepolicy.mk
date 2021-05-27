@@ -17,6 +17,7 @@
 # Xiaomi
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += device/xiaomi/ginkgo-sepolicy/private
 
+BOARD_SEPOLICY_DIRS += device/xiaomi/ginkgo-sepolicy/vendor/qcom/sm6125
 BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/adsprpcd \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/audio \
