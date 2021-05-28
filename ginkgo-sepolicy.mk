@@ -29,6 +29,7 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/kcal \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/light \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/misc \
+    device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/mlipay \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/neuralnetworks \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/power \
     device/xiaomi/ginkgo-sepolicy/vendor/xiaomi/radio \
