@@ -1,3 +1,0 @@
-# Thermal
-sys.thermal.                                            u:object_r:thermal_engine_prop:s0
-persist.sys.thermal.                                    u:object_r:thermal_engine_prop:s0
