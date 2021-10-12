@@ -19,6 +19,6 @@ BOARD_SEPOLICY_DIRS += device/xiaomi/ginkgo-sepolicy/vendor/qcom/common
 BOARD_SEPOLICY_DIRS += device/xiaomi/ginkgo-sepolicy/vendor/qcom/sm6125
 
 # Xiaomi
-BOARD_PLAT_PRIVATE_SEPOLICY_DIR += device/xiaomi/ginkgo-sepolicy/private
+SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += device/xiaomi/ginkgo-sepolicy/private
 
 BOARD_VENDOR_SEPOLICY_DIRS += device/xiaomi/ginkgo-sepolicy/vendor/xiaomi
