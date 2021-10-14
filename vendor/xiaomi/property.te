@@ -1,8 +1,8 @@
 # Fingerprint
-type vendor_fp_prop, property_type;
+system_public_prop(vendor_fp_prop)
 
 # IR
-type lirc_prop, property_type;
+system_public_prop(lirc_prop)
 
 # Thermal
-type thermal_engine_prop, property_type;
+system_public_prop(thermal_engine_prop)
